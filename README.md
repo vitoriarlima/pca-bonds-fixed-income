@@ -9,7 +9,7 @@ applied to the Term Structure: an analysis on European interest rate yields betw
 
   
 
-* What this bachelor research paper is about:
+What this bachelor research paper is about:
 
 In this project I applied PCA to interest rate yield curves. There I computed PCA to the changes of 
 average yields of AAA-rated bonds in the Euro Area in a positive (with sample 
