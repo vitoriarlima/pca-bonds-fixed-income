@@ -2,9 +2,13 @@
 # PCA applied to european yield curves: a comparison between the positive and negative interest rate environments
 
 
-This is the repository of my code of my Bachelor Thesis from the Freie Universitat Berlin.
-I graduated in November 2020. 
-This thesis won an award: Best Econometrics Thesis of the Year in 2020 [Deutsche Bundesbank Award](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/nautz/lehre/foerderpreis_monetaere_makro/index.html).
+- This is the repository of my code of my Bachelor Thesis from the Freie Universitat Berlin.
+
+
+- I graduated in November 2020. 
+
+
+- This thesis won an award: Best Econometrics Thesis of the Year in 2020 [Deutsche Bundesbank Award](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/nautz/lehre/foerderpreis_monetaere_makro/index.html).
 
 
 
